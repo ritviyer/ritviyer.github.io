@@ -74,9 +74,6 @@ a:hover {
   text-decoration: none;
 }
 
-body {
-    background: #e3e5e8;
-}
 td,
 th,
 tr,
@@ -132,7 +129,9 @@ span.highlight {
   background-color: #ffffd0;
 }
 
-
+body {
+	background: #e3e5e8;
+}
 
 .container {
 	width: 1024px;
